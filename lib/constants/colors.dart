@@ -1,7 +1,6 @@
 import 'dart:ui';
 
 class MyColors {
-  static const orange = Color(0xFFfc7f3f);
-  static const red = Color(0xFFff2a6b);
-  static const pink = Color(0xFFff2f83);
+  static const orange_1 = Color.fromRGBO(255, 110, 60, 1);
+  static const pink_1 = Color.fromRGBO(245, 45, 100, 1);
 }
