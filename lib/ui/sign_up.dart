@@ -126,8 +126,8 @@ class SignUpPageState extends State<SignUpPage> {
                     const Expanded(
                       flex: 1,
                       child: Text(
-                        textAlign: TextAlign.center,
                         'Sign in with Facebook',
+                        textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 16,
                           color: Colors.white,
@@ -180,8 +180,8 @@ class SignUpPageState extends State<SignUpPage> {
                     const Expanded(
                       flex: 1,
                       child: Text(
-                        textAlign: TextAlign.center,
                         'Sign in with Twitter',
+                        textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 16,
                           color: Colors.white,
